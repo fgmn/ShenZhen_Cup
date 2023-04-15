@@ -14,31 +14,31 @@
 
 1. 基于最小生成树的配电网拓扑设计：由于各线路之间造价比相近，因此初步可以近似为同等造价，使用最小生成树对网络的拓扑结构进行大致的确定。
 
-<img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20230415201120221.png" alt="image-20230415201120221" style="zoom:50%;" />
+<img src="https://github.com/fgmn/ShenZhen_Cup/blob/main/img/image-20230415201120221.png" alt="image-20230415201120221" style="zoom:50%;" />
 
 2. 基于几何分析的二分类算法
 
-<img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20230415201250104.png" alt="image-20230415201250104" style="zoom:50%;" />
+<img src="https://github.com/fgmn/ShenZhen_Cup/blob/main/img/image-20230415201250104.png" alt="image-20230415201250104" style="zoom:50%;" />
 
 3. 用电可靠性精确概率模型
 
-![image-20230415201516805](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20230415201516805.png)
+![image-20230415201516805](https://github.com/fgmn/ShenZhen_Cup/blob/main/img/image-20230415201516805.png)
 
-<img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20230415201423795.png" alt="image-20230415201423795" style="zoom: 33%;" />
+<img src="https://github.com/fgmn/ShenZhen_Cup/blob/main/img/image-20230415201423795.png" alt="image-20230415201423795" style="zoom: 33%;" />
 
 4. 双供电网模型
 
-<img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20230415201648112.png" alt="image-20230415201648112" style="zoom:50%;" />
+<img src="https://github.com/fgmn/ShenZhen_Cup/blob/main/img/image-20230415201648112.png" alt="image-20230415201648112" style="zoom:50%;" />
 
-<img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20230415201632716.png" alt="image-20230415201632716" style="zoom: 67%;" />
+<img src="https://github.com/fgmn/ShenZhen_Cup/blob/main/img/image-20230415201632716.png" alt="image-20230415201632716" style="zoom: 67%;" />
 
 5. 基于启发式准则的贪心算法
 
-<img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20230415201944321.png" alt="image-20230415201944321" style="zoom:50%;" />
+<img src="https://github.com/fgmn/ShenZhen_Cup/blob/main/img/image-20230415201944321.png" alt="image-20230415201944321" style="zoom:50%;" />
 
 6. 负荷分块改进算法：对于任意负荷点，它和主线上分叉点的用电可靠性之比为一个固定常数，不会因增设联络线而改变。
 
-<img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20230415202116684.png" alt="image-20230415202116684" style="zoom:50%;" />
+<img src="https://github.com/fgmn/ShenZhen_Cup/blob/main/img/image-20230415202116684.png" alt="image-20230415202116684" style="zoom:50%;" />
 
 #### 比赛回顾
 
